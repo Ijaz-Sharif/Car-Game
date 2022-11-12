@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Projects/gamePeoject/CarGame/app/src/main/res/layout/activity_about.xml" value="0.2682291666666667" />
+        <entry key="..\:/Android Projects/gamePeoject/CarGame/app/src/main/res/layout/activity_advance_level_game.xml" value="0.2682291666666667" />
+        <entry key="..\:/Android Projects/gamePeoject/CarGame/app/src/main/res/layout/activity_hint_game.xml" value="0.2682291666666667" />
+        <entry key="..\:/Android Projects/gamePeoject/CarGame/app/src/main/res/layout/activity_identify_car_game.xml" value="0.2682291666666667" />
+        <entry key="..\:/Android Projects/gamePeoject/CarGame/app/src/main/res/layout/activity_identigy_brand_game.xml" value="0.2682291666666667" />
+        <entry key="..\:/project/gameproject/CarGame/app/src/main/res/layout/activity_about.xml" value="0.3269927536231884" />
+        <entry key="..\:/project/gameproject/CarGame/app/src/main/res/layout/activity_advance_level_game.xml" value="0.3269927536231884" />
+        <entry key="..\:/project/gameproject/CarGame/app/src/main/res/layout/activity_hint_game.xml" value="0.3269927536231884" />
+        <entry key="..\:/project/gameproject/CarGame/app/src/main/res/layout/activity_identify_car_game.xml" value="0.3269927536231884" />
+        <entry key="..\:/project/gameproject/CarGame/app/src/main/res/layout/activity_identigy_brand_game.xml" value="0.1" />
+        <entry key="..\:/project/gameproject/CarGame/app/src/main/res/layout/activity_main.xml" value="0.3269927536231884" />
+        <entry key="..\:/project/gameproject/CarGame/app/src/main/res/layout/activity_splash.xml" value="0.3269927536231884" />
+        <entry key="..\:/project/gameproject/CarGame/app/src/main/res/layout/activity_start.xml" value="0.3269927536231884" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
